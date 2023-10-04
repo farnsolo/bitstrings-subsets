@@ -13,3 +13,5 @@ of the following bit strings:
 1. {1, 2, 3, 4, 7, 8, 9, 10}
 2. {2, 4, 5, 6, 7}
 3. {1, 10}
+
+NOTE: There is no exception handling in the program.
