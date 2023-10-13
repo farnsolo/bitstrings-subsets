@@ -2,7 +2,7 @@
 This Repository is focused on bitstrings and sets 
 
 
-# bitstring - sets code 1:
+# Finding subset from bitstring (Bitstring-Subset.py):
 Given a set and bitstring, the program will find the subset specified by the bitstring
 
 Example:
@@ -15,3 +15,7 @@ of the following bit strings:
 3. 1000000001 = Subset = {1, 10}
 
 NOTE: There is no exception handling in the program.
+
+# Find difference between two bitsrings (Bitstring-Difference.py)
+Write an algorithm that, given a finite set S = {s1, . . . , sn}, calculates
+bX\Y where X ⊆ S and Y ⊆ S. Assume that bX and bY are given.
