@@ -16,6 +16,6 @@ of the following bit strings:
 
 NOTE: There is no exception handling in the program.
 
-# Find difference between two bitsrings (Bitstring-Difference.py)
+# Find difference between two bitstrings (Bitstring-Difference.py)
 Write an algorithm that, given a finite set S = {s1, . . . , sn}, calculates
 bX\Y where X ⊆ S and Y ⊆ S. Assume that bX and bY are given.
