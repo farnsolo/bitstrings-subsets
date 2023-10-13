@@ -1,4 +1,8 @@
-# bitstring-subset
+# bitstring-sets
+This Repository is focused on bitstrings and sets 
+
+
+# bitstring - sets code 1:
 Given a set and bitstring, the program will find the subset specified by the bitstring
 
 Example:
