@@ -20,8 +20,10 @@ print("Given the finite set A - subsetbx\subsetby for  bx belongs to A and by be
 
 # bxDy (bx DIFFERENCE by) is the set which have the members of x\y
 bxDy = ""
-i = 0
+# for loop i < cardinality of set A 
 for i in range(0,cardinalityA):
+    # Another way to think of difference is as bx-by
+    # any element of bx-by must be belong to bx and does not belong to by
     if(subsetbx[i] == '1' and subsetby[i] == '0'):
         bxDy = bxDy + '1'
     else:
